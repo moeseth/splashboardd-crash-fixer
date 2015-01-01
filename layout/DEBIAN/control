@@ -1,9 +1,9 @@
 Package: com.w00tylab.splashboarddcrashfixer
-Name: splashboardd crash fixer
+Name: Splashboardd Crash Fixer
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 1.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Splashboardd crash fixer
 Maintainer: moeseth
 Author: moeseth
 Section: Tweaks

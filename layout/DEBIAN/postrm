@@ -1,0 +1,4 @@
+#!/bin/sh
+
+launchctl unload /Library/LaunchDaemons/com.apple.splashboardd.plist
+launchctl load /Library/LaunchDaemons/com.apple.splashboardd.plist
