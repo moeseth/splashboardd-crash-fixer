@@ -1,0 +1,9 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.splashboardd",
+			"com.apple.SplashBoard",
+			"com.apple.UIKit",
+		);
+	};
+}
